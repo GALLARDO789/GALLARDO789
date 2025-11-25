@@ -17,11 +17,8 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-linkedin-aqui" target="_blank">
+  <a href="www.linkedin.com/in/l-gallardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/tu-instagram-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -45,14 +42,3 @@
 - 🧱 Improving my **game architecture** skills (entity systems, chunk-based worlds, AI, procedural generation).
 - 🧮 Creating tools for **accounting / business workflows** (automations, PDFs, Excel, etc.).
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GALLARDO789&show_icons=true&theme=radical" alt="Luis's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GALLARDO789&layout=compact&theme=radical" alt="Top Langs" />
-</p>
